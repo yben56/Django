@@ -1,0 +1,7 @@
+django
+djangorestframework
+environs
+requests
+django-easy-validator
+pyjwt
+django-cors-headers
